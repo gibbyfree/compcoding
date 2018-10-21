@@ -1,0 +1,6 @@
+import java.lang.*;
+class Solution {
+    public String toLowerCase(String str) {
+        return str.toLowerCase();
+    }
+}
